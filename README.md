@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivani123gupta
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in web development and tech
+- 🌱 I’m currently learning web development with new technology
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me sg7235825@gmail.com
 
